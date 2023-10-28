@@ -1,0 +1,17 @@
+flask
+flask_cors
+flask_sqlalchemy
+pytz
+numpy
+torch
+opencv-python
+pandas
+requests
+torchvision
+tqdm
+pyyaml
+matplotlib
+seaborn
+pytesseract
+scipy
+mysqlclient
